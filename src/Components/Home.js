@@ -4,7 +4,7 @@ import SpaceBoy from "../LottieFiles/SpaceBoy.json";
 import Typed from "./Typed.js";
 import Tilt from 'react-parallax-tilt';
 import Avatar from '../images/Avatar.png';
-import {CiCoffeeCup} from "react-icons/ci";
+// import {CiCoffeeCup} from "react-icons/ci";
 
 const Home = () => {
   return (
@@ -27,7 +27,7 @@ const Home = () => {
 
       <div className='AboutPage'>
         <div className='AboutText'>
-          <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
+          <h1 className='AboutTextHeading'>Brief <b>Introduction</b></h1>
           <p>
           A passionate <b>MERN Stack Developer</b> with a knack for building <b>dynamic</b>, <b>scalable</b>, and <b>user-friendly</b> web applications. I specialize in crafting seamless front-end experiences using <b>React</b>, building robust back-end systems with <b>Node.js</b> and <b>Express</b>, and managing databases with <b>MongoDB</b>.<br/><br/>
           In addition to my expertise in the <b>MERN stack</b>, I have a strong foundation in programming languages like <b>C++</b>, <b>Python</b>, and <b>JavaScript</b>, enabling me to solve complex problems and adapt to diverse challenges. Whether it's developing APIs, creating elegant UIs, or optimizing performance, I strive to deliver impactful solutions that bridge functionality with creativity.
