@@ -29,14 +29,10 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
-            I love the process of changing a raw idea into a website or a product 
-            that impacts lives. 
-            I want to do work that challenges me as a developer & work that I can 
-            be proud of.<br /><br />
-            I am fluent in <b>C++</b> and know a bit of <b>Python</b> and am working on a few 
-            projects in the <b>MERN</b> stack.<br />
-            I plan to learn <b>Next.js</b>, <b>Three.js</b> and<b> Typescript</b> in the near future. <br /><br />
-            Also, I love <b>coffee</b> <CiCoffeeCup style={{scale:"1.5", rotate:"15deg"}}/>   
+          A passionate <b>MERN Stack Developer</b> with a knack for building <b>dynamic</b>, <b>scalable</b>, and <b>user-friendly</b> web applications. I specialize in crafting seamless front-end experiences using <b>React</b>, building robust back-end systems with <b>Node.js</b> and <b>Express</b>, and managing databases with <b>MongoDB</b>.<br/><br/>
+          In addition to my expertise in the <b>MERN stack</b>, I have a strong foundation in programming languages like <b>C++</b>, <b>Python</b>, and <b>JavaScript</b>, enabling me to solve complex problems and adapt to diverse challenges. Whether it's developing APIs, creating elegant UIs, or optimizing performance, I strive to deliver impactful solutions that bridge functionality with creativity.
+          Feel free to explore my projects, where I’ve combined technical skills with my passion for coding.<br/><br/>
+          Let’s connect and turn <b>ideas into reality!</b> 🚀  
           </p>
         </div>
         <Tilt>
