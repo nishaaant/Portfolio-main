@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
       <h4>Developed by Nishant Rajput</h4>
-      <h4>Copyright &copy; 2023 NR</h4>
+      <h4>Copyright &copy; 2024 NR</h4>
       <div className='footerLinks'>
         <a href="https://github.com/nishaaant" target='_blank'><FaGithub/></a>
         <a href="http://www.linkedin.com/in/nishant-rajput-3a1150212" target='_blank'><FaLinkedin/></a>

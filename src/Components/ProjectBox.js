@@ -10,8 +10,8 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     FoodiespointWebsite : "https://foodies-point.vercel.app/",
 
     PortfolioDesc : "The goal of this project is to provide a professional and engaging platform to highlight my work and connect with potential collaborators or employers.",
-    PortfolioGithub : "",
-    PortfolioWebsite : "",
+    PortfolioGithub : "https://github.com/nishaaant/Portfolio-main",
+    PortfolioWebsite : "https://nishaaant.vercel.app/",
 
     NewsletterDesc:"A newsletter signup site made using Mailchimp API where the signups can be monitored from the MailChimp account. This project was made to understand API integration, environment variables and vercel deployment.",
     NewsletterGithub:"",
