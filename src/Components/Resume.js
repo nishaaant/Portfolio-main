@@ -23,7 +23,7 @@ const Resume = () => {
           <Page pageNumber= {1} scale={wid<700 ? ( wid>475? 0.7: 0.5): 1}/>
       </Document> */}
 
-      <a href="https://drive.google.com/file/d/10isPK7T2kJnILLnTs-F0t2Q30LpZnGNe/view?usp=sharing" target='_blank' download="Nishant's Resume">
+      <a href="https://drive.google.com/file/d/129nJ9h3ns80OvdaBuhwbOFX_2gkfs9QF/view?usp=sharing" target='_blank' download="Nishant's Resume">
         <button className='downloadCV' type='button'>
           <h3><BsDownload/>&nbsp; Download CV</h3>
         </button>
