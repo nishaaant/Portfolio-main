@@ -5,9 +5,9 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
-    FoodiespointDesc : "This is an Online Food Delivery platform designed to provide a seamless and efficient way for users to browse menus and place orders.",
-    FoodiespointGithub : "https://github.com/nishaaant/Foodies-Point",
-    FoodiespointWebsite : "https://foodies-point.vercel.app/",
+    FoodiesPointDesc : "This is an Online Food Delivery platform designed to provide a seamless and efficient way for users to browse menus and place orders.",
+    FoodiesPointGithub : "https://github.com/nishaaant/Foodies-Point",
+    FoodiesPointWebsite : "https://foodies-point.vercel.app/",
 
     PortfolioDesc : "The goal of this project is to provide a professional and engaging platform to highlight my work and connect with potential collaborators or employers.",
     PortfolioGithub : "https://github.com/nishaaant/Portfolio-main",

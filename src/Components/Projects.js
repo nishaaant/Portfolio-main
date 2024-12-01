@@ -12,7 +12,7 @@ const Projects = () => {
       <div className='project'>
         <ProjectBox projectPhoto={PortfolioImage} projectName="Portfolio" />
         <ProjectBox projectPhoto={DphiImage} projectName="Dphi" />
-        <ProjectBox projectPhoto={FoodiesImage} projectName="Foodiespoint" />
+        <ProjectBox projectPhoto={FoodiesImage} projectName="FoodiesPoint" />
       </div>
 
     </div>
