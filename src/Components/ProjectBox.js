@@ -20,6 +20,10 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     DphiDesc:"Engineered a robust system allowing users to create, edit, and delete challenges with ease, ensuring a seamless user experience and efficient challenge management. (CRUD)",
     DphiGithub:"https://github.com/nishaaant/DPHI",
     DphiWebsite:"https://dphi-nishants-projects-dfba7292.vercel.app/",
+
+    DockssDesc:"A sleek document-saving app powered by Vite for speed and Framer Motion for smooth, animated card interactions. Effortless, organized, and visually stunning!",
+    DockssGithub:"https://github.com/nishaaant/dockss",
+    DockssWebsite:"https://dockss.vercel.app/",
   }
 
   let show ='';

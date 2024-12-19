@@ -3,6 +3,7 @@ import ProjectBox from './ProjectBox';
 import FoodiesImage from '../images/FoodiesImage.png';
 import DphiImage from '../images/DphiImage.png';
 import PortfolioImage from '../images/PortfolioImg.png';
+import Dockssimage from '../images/Dockssimage.png'
 
 
 const Projects = () => {
@@ -13,6 +14,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={PortfolioImage} projectName="Portfolio" />
         <ProjectBox projectPhoto={DphiImage} projectName="Dphi" />
         <ProjectBox projectPhoto={FoodiesImage} projectName="FoodiesPoint" />
+        <ProjectBox projectPhoto={Dockssimage} projectName="Dockss" />
       </div>
 
     </div>
