@@ -4,6 +4,8 @@ import FoodiesImage from '../images/FoodiesImage.png';
 import DphiImage from '../images/DphiImage.png';
 import PortfolioImage from '../images/PortfolioImg.png';
 import Dockssimage from '../images/Dockssimage.png'
+import YaaraanaImage from '../images/YaaraanaImage.png'
+import Scheduler from '../images/Scheduler.png'
 
 
 const Projects = () => {
@@ -11,9 +13,11 @@ const Projects = () => {
     <div id='project'>
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
-        <ProjectBox projectPhoto={PortfolioImage} projectName="Portfolio" />
         <ProjectBox projectPhoto={DphiImage} projectName="Dphi" />
+        <ProjectBox projectPhoto={YaaraanaImage} projectName="Yaaraana" />
         <ProjectBox projectPhoto={FoodiesImage} projectName="FoodiesPoint" />
+        <ProjectBox projectPhoto={Scheduler} projectName="Scheduler" />
+        <ProjectBox projectPhoto={PortfolioImage} projectName="Portfolio" />
         <ProjectBox projectPhoto={Dockssimage} projectName="Dockss" />
       </div>
 

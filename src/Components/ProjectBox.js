@@ -24,6 +24,14 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     DockssDesc:"A sleek document-saving app powered by Vite for speed and Framer Motion for smooth, animated card interactions. Effortless, organized, and visually stunning!",
     DockssGithub:"https://github.com/nishaaant/dockss",
     DockssWebsite:"https://dockss.vercel.app/",
+    
+    YaaraanaDesc:"Built a MERN stack application with features like account creation, profile editing, connection management, and secure login/logout workflows.",
+    YaaraanaGithub:"https://github.com/nishaaant/Yaaraana-Web",
+    YaaraanaWebsite:"https://yaaraana-nish.vercel.app/",
+    
+    SchedulerDesc:"Developed a MERN stack application enabling users to design and execute email marketing sequences through an intuitive flowchart-based interface using React Flow.",
+    SchedulerGithub:"https://github.com/nishaaant/Scheduler-Nish-Web",
+    SchedulerWebsite:"https://scheduler-nish-web.vercel.app/",
   }
 
   let show ='';
