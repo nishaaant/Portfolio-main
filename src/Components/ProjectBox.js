@@ -7,7 +7,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     FoodiesPointDesc : "This is an Online Food Delivery platform designed to provide a seamless and efficient way for users to browse menus and place orders.",
     FoodiesPointGithub : "https://github.com/nishaaant/Foodies-Point",
-    FoodiesPointWebsite : "https://foodies-point.vercel.app/",
+    FoodiesPointWebsite : "https://drive.google.com/file/d/131wtBD7KTvrz9UnpGax6TM1iyUl0vJHv/view?usp=sharing",
 
     PortfolioDesc : "The goal of this project is to provide a professional and engaging platform to highlight my work and connect with potential collaborators or employers.",
     PortfolioGithub : "https://github.com/nishaaant/Portfolio-main",
@@ -27,11 +27,11 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     
     YaaraanaDesc:"Built a MERN stack application with features like account creation, profile editing, connection management, and secure login/logout workflows.",
     YaaraanaGithub:"https://github.com/nishaaant/Yaaraana-Web",
-    YaaraanaWebsite:"https://yaaraana-nish.vercel.app/",
+    YaaraanaWebsite:"https://drive.google.com/file/d/1PFM4-dGjk319dnFngrTnSmXJQ4OmcSKP/view?usp=sharing",
     
     SchedulerDesc:"Developed a MERN stack application enabling users to design and execute email marketing sequences through an intuitive flowchart-based interface using React Flow.",
     SchedulerGithub:"https://github.com/nishaaant/Scheduler-Nish-Web",
-    SchedulerWebsite:"https://scheduler-nish-web.vercel.app/",
+    SchedulerWebsite:"https://drive.google.com/file/d/1RUXw2EkmsLLMs64HYj3eLvNQ6iDt1bs1/view?usp=sharing",
 
     ImageDashboardDesc:"Built a responsive admin dashboard to manage user-submitted names, social handles, and images. Developed with React.js, Tailwind CSS, and MongoDB, featuring dynamic data display and seamless navigation.",
     ImageDashboardGithub:"https://github.com/nishaaant/user-image-dashboard",
