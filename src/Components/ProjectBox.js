@@ -32,6 +32,10 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     SchedulerDesc:"Developed a MERN stack application enabling users to design and execute email marketing sequences through an intuitive flowchart-based interface using React Flow.",
     SchedulerGithub:"https://github.com/nishaaant/Scheduler-Nish-Web",
     SchedulerWebsite:"https://scheduler-nish-web.vercel.app/",
+
+    ImageDashboardDesc:"Built a responsive admin dashboard to manage user-submitted names, social handles, and images. Developed with React.js, Tailwind CSS, and MongoDB, featuring dynamic data display and seamless navigation.",
+    ImageDashboardGithub:"https://github.com/nishaaant/user-image-dashboard",
+    ImageDashboardWebsite:"https://nishand-image-dashboard.vercel.app/",
   }
 
   let show ='';

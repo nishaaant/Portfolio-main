@@ -6,6 +6,7 @@ import PortfolioImage from '../images/PortfolioImg.png';
 import Dockssimage from '../images/Dockssimage.png'
 import YaaraanaImage from '../images/YaaraanaImage.png'
 import Scheduler from '../images/Scheduler.png'
+import ImageDashboard from '../images/ImageDashboard.png'
 
 
 const Projects = () => {
@@ -18,6 +19,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={FoodiesImage} projectName="FoodiesPoint" />
         <ProjectBox projectPhoto={Scheduler} projectName="Scheduler" />
         <ProjectBox projectPhoto={PortfolioImage} projectName="Portfolio" />
+        <ProjectBox projectPhoto={ImageDashboard} projectName="ImageDashboard" />
         <ProjectBox projectPhoto={Dockssimage} projectName="Dockss" />
       </div>
 
