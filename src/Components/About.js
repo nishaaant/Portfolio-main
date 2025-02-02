@@ -42,6 +42,7 @@ const About = () => {
         <Skills skill='Express' />
         <Skills skill='MongoDb' />
         <Skills skill='MySQL' />
+        <Skills skill='Typescript' />
         <Skills skill='Git' />
         <Skills skill='Github' />
         <Skills skill='Javascript' />
@@ -50,6 +51,7 @@ const About = () => {
         <Skills skill='Figma' />
         <Skills skill='Vercel' />
         <Skills skill='Npm' />
+        <Skills skill='Postman'/>
         <Skills skill='Bootstrap'/>
         <Skills skill='Tailwind'/>
         

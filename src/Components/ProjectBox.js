@@ -36,6 +36,10 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     ImageDashboardDesc:"Built a responsive admin dashboard to manage user-submitted names, social handles, and images. Developed with React.js, Tailwind CSS, and MongoDB, featuring dynamic data display and seamless navigation.",
     ImageDashboardGithub:"https://github.com/nishaaant/user-image-dashboard",
     ImageDashboardWebsite:"https://nishand-image-dashboard.vercel.app/",
+
+    TaskManagerDesc:"A full-stack task management app with real-time stats, task creation, editing, and priority tracking. Built with React, TypeScript, Tailwind CSS, and Node.js. 🚀",
+    TaskManagerGithub:"https://github.com/nishaaant/TaskManager-Nish",
+    TaskManagerWebsite:"https://task-manager-nish.vercel.app/",
   }
 
   let show ='';
