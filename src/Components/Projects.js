@@ -8,6 +8,9 @@ import YaaraanaImage from '../images/YaaraanaImage.png'
 import Scheduler from '../images/Scheduler.png'
 import ImageDashboard from '../images/ImageDashboard.png'
 import TaskImage from '../images/TaskImage.png'
+import CalendarSchedularImage from '../images/CalendarSchedulerImage.png'
+import EventNish from '../images/EventNish.png'
+import InteractiveMap from '../images/InteractiveMap.png'
 
 
 const Projects = () => {
@@ -18,11 +21,14 @@ const Projects = () => {
         <ProjectBox projectPhoto={DphiImage} projectName="Dphi" />
         <ProjectBox projectPhoto={YaaraanaImage} projectName="Yaaraana" />
         <ProjectBox projectPhoto={FoodiesImage} projectName="FoodiesPoint" />
-        <ProjectBox projectPhoto={Scheduler} projectName="Scheduler" />
+        <ProjectBox projectPhoto={CalendarSchedularImage} projectName="CalendarScheduler" />
         <ProjectBox projectPhoto={TaskImage} projectName="TaskManager" />
-        <ProjectBox projectPhoto={PortfolioImage} projectName="Portfolio" />
+        <ProjectBox projectPhoto={InteractiveMap} projectName="InteractiveMap" />
+        <ProjectBox projectPhoto={Scheduler} projectName="EmailScheduler" />
+        <ProjectBox projectPhoto={EventNish} projectName="EventNish" />
         <ProjectBox projectPhoto={ImageDashboard} projectName="ImageDashboard" />
         <ProjectBox projectPhoto={Dockssimage} projectName="Dockss" />
+        <ProjectBox projectPhoto={PortfolioImage} projectName="Portfolio" />
       </div>
 
     </div>

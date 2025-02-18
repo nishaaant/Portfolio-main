@@ -29,9 +29,9 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     YaaraanaGithub:"https://github.com/nishaaant/Yaaraana-Web",
     YaaraanaWebsite:"https://drive.google.com/file/d/1PFM4-dGjk319dnFngrTnSmXJQ4OmcSKP/view?usp=sharing",
     
-    SchedulerDesc:"Developed a MERN stack application enabling users to design and execute email marketing sequences through an intuitive flowchart-based interface using React Flow.",
-    SchedulerGithub:"https://github.com/nishaaant/Scheduler-Nish-Web",
-    SchedulerWebsite:"https://drive.google.com/file/d/1RUXw2EkmsLLMs64HYj3eLvNQ6iDt1bs1/view?usp=sharing",
+    EmailSchedulerDesc:"Developed a MERN stack application enabling users to design and execute email marketing sequences through an intuitive flowchart-based interface using React Flow.",
+    EmailSchedulerGithub:"https://github.com/nishaaant/Scheduler-Nish-Web",
+    EmailSchedulerWebsite:"https://drive.google.com/file/d/1RUXw2EkmsLLMs64HYj3eLvNQ6iDt1bs1/view?usp=sharing",
 
     ImageDashboardDesc:"Built a responsive admin dashboard to manage user-submitted names, social handles, and images. Developed with React.js, Tailwind CSS, and MongoDB, featuring dynamic data display and seamless navigation.",
     ImageDashboardGithub:"https://github.com/nishaaant/user-image-dashboard",
@@ -40,6 +40,18 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     TaskManagerDesc:"A full-stack task management app with real-time stats, task creation, editing, and priority tracking. Built with React, TypeScript, Tailwind CSS, and Node.js. 🚀",
     TaskManagerGithub:"https://github.com/nishaaant/TaskManager-Nish",
     TaskManagerWebsite:"https://task-manager-nish.vercel.app/",
+    
+    CalendarSchedulerDesc:"A smart event management platform that seamlessly integrates with Google Calendar, allowing users to create and manage events efficiently. It offers a visually appealing interface and ensures a smooth scheduling experience.",
+    CalendarSchedulerGithub:"https://github.com/nishaaant/CalenderScheduler",
+    CalendarSchedulerWebsite:"https://drive.google.com/file/d/1zJcaorHPR0pRnp3Z9d52dBE7rib-Mwqf/view?usp=sharing",
+
+    EventNishDesc:"A smart event scheduling platform that allows users to create and manage events efficiently. It offers a visually appealing interface and ensures a smooth scheduling experience.",
+    EventNishGithub:"https://github.com/nishaaant/Event-Nish",
+    EventNishWebsite:"https://drive.google.com/file/d/1iTtoxz7MqfW6MwtzbQEwORsuSSQnsyg8/view?usp=sharing",
+
+    InteractiveMapDesc:"A dynamic mapping app built with Vite, React, Leaflet, and Tailwind CSS, enabling seamless location visualization and interaction. 🚀",
+    InteractiveMapGithub:"https://github.com/nishaaant/interactive-map",
+    InteractiveMapWebsite:"https://interactive-map-ivory.vercel.app/",
   }
 
   let show ='';
