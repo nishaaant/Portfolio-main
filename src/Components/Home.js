@@ -29,10 +29,14 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>Introduction</b></h1>
           <p>
-          A passionate <b>MERN Stack Developer</b> with a knack for building <b>dynamic</b>, <b>scalable</b>, and <b>user-friendly</b> web applications. I specialize in crafting seamless front-end experiences using <b>React</b>, building robust back-end systems with <b>Node.js</b> and <b>Express</b>, and managing databases with <b>MongoDB</b>.<br/><br/>
-          In addition to my expertise in the <b>MERN stack</b>, I have a strong foundation in programming languages like <b>C++</b>, <b>Python</b>, and <b>JavaScript</b>, enabling me to solve complex problems and adapt to diverse challenges. Whether it's developing APIs, creating elegant UIs, or optimizing performance, I strive to deliver impactful solutions that bridge functionality with creativity.
-          Feel free to explore my projects, where I’ve combined technical skills with my passion for coding.<br/><br/>
-          Let’s connect and turn <b>ideas into reality!</b> 🚀  
+          A <b>Full Stack Developer</b> with a proven track record of building scalable web applications using the <b>MERN stack</b>. I specialize in creating responsive, user-friendly interfaces with React.js and developing robust backend systems with Node.js and Express.js. My expertise extends to database management with MongoDB and MySQL, ensuring optimal data handling and performance.<br/><br/>
+          With hands-on experience at Yup Solutions Pvt Ltd and CourPedia, I've successfully led the development of several high-impact projects, including:<br/>
+          - A scheduling platform with OAuth authentication and Stripe integration<br/>
+          - A social networking application with real-time features<br/>
+          - A challenge management system with advanced data integrity<br/>
+          - An e-commerce platform with optimized order processing<br/><br/>
+          Currently pursuing a Master's in Computer Applications with a focus on Data Science, I'm constantly expanding my skillset in AI/ML and advanced database technologies. I'm passionate about combining technical excellence with innovative solutions to drive business growth.<br/><br/>
+          Let's collaborate to turn your ideas into reality! 🚀
           </p>
         </div>
         <Tilt>

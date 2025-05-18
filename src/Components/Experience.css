@@ -1,0 +1,119 @@
+.experience-section {
+  padding: 6rem 0;
+  background: #f8f9fa;
+}
+
+.section-heading {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+  color: #333;
+  font-weight: 600;
+}
+
+.timeline-container {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.timeline-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  height: 100%;
+  width: 4px;
+  background: #6c757d;
+  transform: translateX(-50%);
+}
+
+.timeline-item {
+  position: relative;
+  padding: 2rem 0;
+  width: 45%;
+}
+
+.timeline-item.left {
+  left: 0;
+}
+
+.timeline-item.right {
+  right: 0;
+}
+
+.timeline-item::after {
+  content: '';
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: #007bff;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+.timeline-item.left::after {
+  right: -10px;
+}
+
+.timeline-item.right::after {
+  left: -10px;
+}
+
+.timeline-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 2;
+}
+
+.experience-title {
+  font-size: 1.5rem;
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+.institution {
+  font-size: 1.2rem;
+  color: #3498db;
+  margin-bottom: 0.5rem;
+}
+
+.period {
+  color: #7f8c8d;
+  margin-bottom: 0.5rem;
+}
+
+.grade {
+  color: #2ecc71;
+  margin-bottom: 1rem;
+}
+
+.description p {
+  color: #34495e;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .timeline-container::before {
+    left: 31px;
+  }
+
+  .timeline-item {
+    width: 100%;
+    padding-left: 70px;
+  }
+
+  .timeline-item::after {
+    left: 26px;
+  }
+
+  .timeline-item.right {
+    padding-left: 70px;
+  }
+}

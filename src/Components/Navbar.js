@@ -3,7 +3,7 @@ import { useState } from 'react';
 // import { Link } from 'react-router-dom';
 import {AiOutlineHome} from "react-icons/ai";
 import {BsPerson, BsCodeSlash} from "react-icons/bs";
-import {CgFileDocument} from "react-icons/cg";
+import {CgFileDocument, CgWorkAlt} from "react-icons/cg";
 import { Link } from 'react-scroll';
 
 
@@ -54,6 +54,7 @@ const Nav = () => {
         <ul className='NavbarLinks'>
             <li onClick={hideMenu}><Link to="home"><AiOutlineHome/> Home</Link></li>
             <li onClick={hideMenu}><Link to="about"><BsPerson/> About</Link></li>
+            <li onClick={hideMenu}><Link to="experience"><CgWorkAlt/>Experience</Link></li>
             <li onClick={hideMenu}><Link to="project"><BsCodeSlash/> Project</Link></li>
             <li onClick={hideMenu}><Link to="resume"><CgFileDocument/> Resume</Link></li>
         </ul>

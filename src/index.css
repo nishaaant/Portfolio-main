@@ -63,6 +63,82 @@ b{
   top: -30px;
 }
 
+/* Experience Section */
+.experience-section {
+  padding: 6rem 0;
+  background: #031926;
+  color: #ffffff;
+  position: relative;
+  z-index: 1;
+}
+
+.section-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.section {
+  margin-bottom: 4rem;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #E94560;
+  font-weight: 600;
+}
+
+.timeline-container {
+  position: relative;
+}
+
+.timeline-item {
+  margin-bottom: 2rem;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2rem;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+}
+
+.timeline-content {
+  position: relative;
+}
+
+.experience-title {
+  font-size: 1.5rem;
+  color: #E94560;
+  margin-bottom: 0.5rem;
+}
+
+.institution {
+  font-size: 1.2rem;
+  color: #ffffff;
+  margin-bottom: 0.5rem;
+}
+
+.period {
+  color: #7f8c8d;
+  margin-bottom: 0.5rem;
+}
+
+.grade {
+  color: #2ecc71;
+  margin-bottom: 1rem;
+}
+
+.description p {
+  color: #c2c1c2;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .section-container {
+    padding: 0 1rem;
+  }
+}
+
 
 /* NAVBAR */
 

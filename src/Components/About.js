@@ -9,16 +9,25 @@ const About = () => {
     <>
       <div id='about' className='AboutPage'>
         <div className='AboutText'>
-          <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
+          <h1 className='AboutTextHeading' >Professional <b>Profile</b></h1>
           <p>
-            Hi, my name is <b>Nishant Rajput</b> and I am from New Delhi, India.<br/><br/>
-            I did my <b>Bachelors</b> in <b>Computer Applications</b> where i learned about various technologies like Computer Graphics, Advanced Computer Networks, Mobile Computing. <br/>
-            Got into the field of Web Development and got familiar with HTML, CSS, and JavaScript. <br/><br/>
-            I am currently a final year college student pursuing<br/> <b>Masters</b> in <b>Computer Applications</b> Major. in <b>Data Science</b>. <br/>
-            Here i am getting familiar with various Database technologies and learning about advance technologies required for the industry<br/><br/>
-            I love to create original projects with beautiful designs, you can check out some of my work in the projects section.<br/><br/>
-            I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Apart from coding I love to do photography, socialising, and interact with people with different views.
+            Hi, I'm <b>Nishant Rajput</b>, a passionate Full Stack Developer from New Delhi, India. With a strong educational background in Computer Science and practical experience in the tech industry, I bring a unique blend of technical expertise and real-world problem-solving skills.<br/><br/>
+            <b>Technical Expertise:</b><br/>
+            - Master's in Computer Applications (Data Science) from Gautam Buddha University<br/>
+            - Bachelor's in Computer Applications from Guru Gobind Singh Indraprastha University<br/>
+            - Specialized in MERN stack development with hands-on experience in React, Node.js, Express, and MongoDB<br/>
+            - Proficient in Python, C++, and JavaScript for diverse development tasks<br/><br/>
+            <b>Professional Journey:</b><br/>
+            - Currently working as Full Stack Developer at Yup Solutions Pvt Ltd<br/>
+            - Previously Software Developer Intern at CourPedia<br/>
+            - Successfully delivered multiple high-impact projects with measurable improvements in performance and user engagement<br/><br/>
+            <b>Core Strengths:</b><br/>
+            - Building scalable and performant web applications<br/>
+            - Implementing secure authentication and payment systems<br/>
+            - Optimizing database performance and data integrity<br/>
+            - Creating responsive and user-friendly interfaces<br/><br/>
+            I'm actively seeking opportunities to collaborate on challenging projects and contribute to innovative solutions. My passion for technology and commitment to excellence drives me to continuously improve and deliver exceptional results.<br/><br/>
+            Connect with me to explore how we can work together to bring your ideas to life!
           </p>
         </div>
 

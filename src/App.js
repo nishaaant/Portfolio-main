@@ -4,6 +4,7 @@ import Nav from './Components/Navbar';
 import Footer from "./Components/Footer";
 import Home from "./Components/Home";
 import About from "./Components/About";
+import Experience from "./Components/Experience";
 import Resume from "./Components/Resume";
 import Project from "./Components/Projects";
 import MoveToTop from "./Components/MoveToTop";
@@ -46,6 +47,7 @@ function App() {
       <MoveToTop/>
       <Home/>
       <About/>
+      <Experience/>
       <Project/>
       <Resume/>
 
